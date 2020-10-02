@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://senare.github.io/senare/ansible/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/argo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/bash/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/bastion/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/elasticsearch/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/etcd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/freeipa/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/git/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/golang/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/gogs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/grafana/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/istio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/kibana/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/kubernetes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/kubevirt/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/kvm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/luks/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/microk8s/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/prometheus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/python/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/sonarqube/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/sssd/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/structure101/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/tekton/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/terraform/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/terragrunt/</loc>
+  </url>
+  
+</urlset>
