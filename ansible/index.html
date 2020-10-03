@@ -18,7 +18,62 @@
       <div class="slides">
   
 
-    <section><h1 id="ansible">Ansible</h1>
+    <section><h4 id="ansible-sales-pitch">Ansible sales pitch</h4>
+<p><em><strong>Free</strong></em> Ansible is an open-source tool.</p>
+</section><section>
+<h4 id="ansible-sales-pitch-1">Ansible sales pitch</h4>
+<p><em><strong>Very simple to set up and use</strong></em> No special coding skills are necessary to use Ansible’s playbooks.</p>
+</section><section>
+<h4 id="ansible-sales-pitch-2">Ansible sales pitch</h4>
+<p><em><strong>Powerful</strong></em> Ansible lets you model even highly complex IT workflows.</p>
+</section><section>
+<h4 id="ansible-sales-pitch-3">Ansible sales pitch</h4>
+<p><em><strong>Flexible</strong></em> You can orchestrate the entire application environment no matter where it’s deployed. You can also customize it based on your needs.</p>
+</section><section>
+<h4 id="ansible-sales-pitch-4">Ansible sales pitch</h4>
+<p><em><strong>Agentless</strong></em> You don’t need to install any other software or firewall ports on the client systems you want to automate. You also don’t have to set up a separate management structure.</p>
+</section><section>
+<h4 id="ansible-sales-pitch-5">Ansible sales pitch</h4>
+<p><em><strong>Efficient</strong></em> Because you don’t need to install any extra software, there’s more room for application resources on your server.</p>
+</section><section>
+<h4 id="what-can-ansible-do">What can ansible do</h4>
+<p><em><strong>Configuration Management</strong></em> Ansible is designed to be very simple, reliable. Ansible configurations are simple data descriptions of infrastructure and are both readable by humans and parsable by machines.</p>
+</section><section>
+<h4 id="what-can-ansible-do-1">What can ansible do</h4>
+<p><em><strong>Application Deployment</strong></em> Ansible lets you quickly and easily deploy multitier apps. You won’t need to write custom code to automate your systems; you list the tasks required to be done by writing a playbook, and Ansible will figure out how to get your systems to the state you want them to be in.</p>
+</section><section>
+<h4 id="what-can-ansible-do-2">What can ansible do</h4>
+<p><em><strong>Orchestration</strong></em> Bringing different elements into a cohesive whole. For example, with application deployment, you need to manage not just the front-end and backend services but the databases, networks, storage, and so on. You also need to make sure that all the tasks are handled in the proper order. Ansible uses automated workflows, provisioning, and more to make orchestrating tasks easy.</p>
+</section><section>
+<h4 id="what-can-ansible-do-3">What can ansible do</h4>
+<p><em><strong>Security and Compliance</strong></em> As with application deployment, sitewide security policies (such as firewall rules or locking down users) can be implemented along with other automated processes. If you configure the security details on the control machine and run the associated playbook, all the remote hosts will automatically be updated with those details. That means you won’t need to monitor each machine for security compliance continually manually. And for extra security, an admin’s user ID and password aren’t retrievable in plain text on Ansible.</p>
+</section><section>
+<h4 id="what-can-ansible-do-4">What can ansible do</h4>
+<p><em><strong>Cloud Provisioning</strong></em> The first step in automating your applications’ life cycle is automating the provisioning of your infrastructure. With Ansible, you can provision cloud platforms, virtualized hosts, network devices, and bare-metal servers.</p>
+</section><section>
+<h4 id="ansible-architecture">Ansible Architecture</h4>
+<p><em><strong>Modules</strong></em> Modules are like small programs that Ansible pushes out from a control machine to all the nodes or remote hosts. The modules are executed using playbooks (see below), and they control things such as services, packages, and files. Ansible executes all the modules for installing updates or whatever the required task is, and then removes them when finished. Ansible provides more than 450 modules for everyday tasks.</p>
+</section><section>
+<h4 id="ansible-architecture-1">Ansible Architecture</h4>
+<p><em><strong>Plugins</strong></em> As you probably already know from many other tools and platforms, plugins are extra pieces of code that augment functionality. Ansible comes with a number of its plugins, but you can write your own as well. Action, cache, and callback plugins are three examples.</p>
+</section><section>
+<h4 id="ansible-architecture-2">Ansible Architecture</h4>
+<p><em><strong>Inventories</strong></em> All the machines you’re using with Ansible (the control machine plus nodes) are listed in a single simple file, along with their IP addresses, databases, servers, and so on. Once you register the inventory, you can assign variables to any of the hosts using a simple text file. You can also pull inventory from sources like EC2 (Amazon Elastic Compute Cloud).</p>
+</section><section>
+<h4 id="ansible-architecture-3">Ansible Architecture</h4>
+<p><em><strong>Playbooks</strong></em> Ansible playbooks are like instruction manuals for tasks. They are simple files written in YAML, which stands for YAML Ain’t Markup Language, a human-readable data serialization language. Playbooks are really at the heart of what makes Ansible so popular is because they describe the tasks to be done quickly and without the need for the user to know or remember any particular syntax. Not only can they declare configurations, but they can orchestrate the steps of any manually ordered task, and can execute tasks at the same time or at different times.</p>
+<p>Each playbook is composed of one or multiple plays, and the goal of a play is to map a group of hosts to well-defined roles, represented by tasks.</p>
+</section><section>
+<h4 id="ansible-architecture-4">Ansible Architecture</h4>
+<p><em><strong>APIs</strong></em> Various APIs are available so you can extend Ansible’s connection types (meaning more than just SSH for transport), callbacks and more.</p>
+</section><section>
+<p><a href="https://www.ansible.com/"><img src="/senare/images/redhat.svg" alt="Redhat"></a></p>
+</section><section>
+<h4 id="what-is-ansible-tower">What is Ansible Tower?</h4>
+<p>Ansible Tower is Red Hat’s commercial web-based solution for managing Ansible. Its best-known feature is an easy-to-use UI (user interface) for managing configurations and deployments, which is a significant improvement over the original UI. Ansible Tower contains the essential features of Ansible, especially those that are easier to see in a graphical format rather than a text-based format.</p>
+</section><section>
+<h1 id="ansible-docs">Ansible doc&rsquo;s</h1>
+<p><a href="https://senare.github.io/senare/">Documentation</a></p>
 </section><section>
 <h1 id="end">End</h1>
 <p><a href="/senare/">return</a></p>
@@ -43,7 +98,7 @@
   document.getElementsByTagName('head')[0].appendChild(link);
 </script>
 
-<script type="application/json" id="reveal-hugo-site-params">{"preview_links":true,"slide_number":true,"theme":"white"}</script>
+<script type="application/json" id="reveal-hugo-site-params">{"loop":true,"preview_links":true,"slide_number":true,"theme":"white"}</script>
 <script type="application/json" id="reveal-hugo-page-params">null</script>
 
 <script src="/senare/reveal-js/js/reveal.js"></script>
@@ -92,6 +147,16 @@
 
 
     
-    
+    <img id="logo" src="/senare/images/ansible.png" alt="Ansible logo">
+
+<style>
+  #logo {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 250px;
+  }
+</style>
+
   </body>
 </html>
