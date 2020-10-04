@@ -39,6 +39,10 @@
   </url>
   
   <url>
+    <loc>https://senare.github.io/senare/github/</loc>
+  </url>
+  
+  <url>
     <loc>https://senare.github.io/senare/golang/</loc>
   </url>
   
@@ -48,6 +52,10 @@
   
   <url>
     <loc>https://senare.github.io/senare/grafana/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/hugo/</loc>
   </url>
   
   <url>
@@ -79,6 +87,10 @@
   </url>
   
   <url>
+    <loc>https://senare.github.io/senare/markdown/</loc>
+  </url>
+  
+  <url>
     <loc>https://senare.github.io/senare/microk8s/</loc>
   </url>
   
@@ -88,6 +100,10 @@
   
   <url>
     <loc>https://senare.github.io/senare/python/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/reveal/</loc>
   </url>
   
   <url>
