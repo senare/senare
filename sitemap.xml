@@ -31,6 +31,10 @@
   </url>
   
   <url>
+    <loc>https://senare.github.io/senare/docker/</loc>
+  </url>
+  
+  <url>
     <loc>https://senare.github.io/senare/elasticsearch/</loc>
   </url>
   
@@ -79,6 +83,10 @@
   </url>
   
   <url>
+    <loc>https://senare.github.io/senare/junit/</loc>
+  </url>
+  
+  <url>
     <loc>https://senare.github.io/senare/kibana/</loc>
   </url>
   
@@ -112,6 +120,10 @@
   
   <url>
     <loc>https://senare.github.io/senare/molecule/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/nexus/</loc>
   </url>
   
   <url>
