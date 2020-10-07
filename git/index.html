@@ -114,28 +114,30 @@
 
 
 <section data-shortcode-section>
-<p>branch strategy</p>
+<h2 id="branch-strategy">Branch strategy</h2>
 </section><section>
+<p><a href="https://nvie.com/posts/a-successful-git-branching-model/">[Git flow]</a></p>
+</section>
+<section data-noprocess data-shortcode-slide
+      data-background-image="/senare/images/git/git-flow.png">
+</section><section>
+<p><a href="https://guides.github.com/introduction/flow/">[Github flow]</a></p>
+<p><a href="https://docs.gitlab.com/ee/topics/gitlab_flow.html">[Gitlab flow]</a></p>
+</section>
+<section data-noprocess data-shortcode-slide
+      data-background-image="/senare/images/git/simple-git-flow.png">
+</section><section>
+<h2 id="library">Library</h2>
 <ul>
-<li>git-flow</li>
+<li>Incremental version</li>
+<li>Internal only</li>
 </ul>
 </section><section>
-<ul>
-<li>github-flow</li>
-<li>gitlab-flow</li>
-</ul>
+<h2 id="web-application--server">Web Application / Server</h2>
+<p>Web apps are typically continuously delivered, not rolled back, and you don&rsquo;t have to support multiple versions of the software running in the wild.</p>
 </section><section>
-<ul>
-<li>Library</li>
-</ul>
-</section><section>
-<ul>
-<li>Web Application / Server</li>
-</ul>
-</section><section>
-<ul>
-<li>Application / Client</li>
-</ul>
+<h2 id="application--client">Application / Client</h2>
+<p>If, you are building software that is explicitly versioned, or if you need to support multiple versions of your software in the wild.</p>
 </section><section>
 
 </section>
