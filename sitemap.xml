@@ -23,6 +23,10 @@
   </url>
   
   <url>
+    <loc>https://senare.github.io/senare/ceph/</loc>
+  </url>
+  
+  <url>
     <loc>https://senare.github.io/senare/certbot/</loc>
   </url>
   
@@ -144,6 +148,10 @@
   
   <url>
     <loc>https://senare.github.io/senare/reveal/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/rook/</loc>
   </url>
   
   <url>
