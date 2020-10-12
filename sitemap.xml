@@ -31,6 +31,10 @@
   </url>
   
   <url>
+    <loc>https://senare.github.io/senare/clair/</loc>
+  </url>
+  
+  <url>
     <loc>https://senare.github.io/senare/cm/</loc>
   </url>
   
@@ -139,6 +143,10 @@
   </url>
   
   <url>
+    <loc>https://senare.github.io/senare/osquery/</loc>
+  </url>
+  
+  <url>
     <loc>https://senare.github.io/senare/prometheus/</loc>
   </url>
   
@@ -152,6 +160,10 @@
   
   <url>
     <loc>https://senare.github.io/senare/rook/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/snort/</loc>
   </url>
   
   <url>
