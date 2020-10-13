@@ -83,6 +83,10 @@
   </url>
   
   <url>
+    <loc>https://senare.github.io/senare/idea/</loc>
+  </url>
+  
+  <url>
     <loc>https://senare.github.io/senare/</loc>
   </url>
   
@@ -168,6 +172,10 @@
   
   <url>
     <loc>https://senare.github.io/senare/sonarqube/</loc>
+  </url>
+  
+  <url>
+    <loc>https://senare.github.io/senare/ssh/</loc>
   </url>
   
   <url>
