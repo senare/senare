@@ -1,205 +1,113 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://senare.github.io/senare/ansible/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/argo/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/bash/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/bastion/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/ceph/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/certbot/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/clair/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/cm/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/decktape/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/docker/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/elasticsearch/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/etcd/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/freeipa/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/git/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/github/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/golang/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/gogs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/grafana/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/hugo/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/idea/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/istio/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/java/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/junit/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://senare.github.io/senare/k3d/</loc>
+  </url><url>
+    <loc>https://senare.github.io/senare/k3s/</loc>
+  </url><url>
     <loc>https://senare.github.io/senare/kibana/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://senare.github.io/senare/kind/</loc>
+  </url><url>
     <loc>https://senare.github.io/senare/kubernetes/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/kubevirt/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/kvm/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/letsencrypt/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/luks/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/markdown/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/microk8s/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://senare.github.io/senare/minikube/</loc>
+  </url><url>
     <loc>https://senare.github.io/senare/molecule/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/nexus/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/nginx/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/osquery/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/prometheus/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/python/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/reveal/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/rook/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/snort/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/sonarqube/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/ssh/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/sssd/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/structure101/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/tekton/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/terraform/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://senare.github.io/senare/terragrunt/</loc>
   </url>
-  
 </urlset>
